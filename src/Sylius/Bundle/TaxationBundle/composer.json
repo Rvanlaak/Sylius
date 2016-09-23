@@ -26,12 +26,12 @@
         "sylius/registry": "^1.0",
         "sylius/taxation": "^1.0",
         "sylius/resource-bundle": "^1.0",
-        "symfony/framework-bundle": "^2.8"
+        "symfony/framework-bundle": "^2.8|^3.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^3.0",
         "doctrine/orm": "^2.4.8,<2.5",
-        "symfony/form": "^2.8"
+        "symfony/form": "^2.8|^3.0"
     },
     "config": {
         "bin-dir": "bin"

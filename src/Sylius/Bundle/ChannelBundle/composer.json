@@ -24,13 +24,13 @@
 
         "sylius/channel": "^1.0",
         "sylius/resource-bundle": "^1.0",
-        "symfony/framework-bundle": "^2.8"
+        "symfony/framework-bundle": "^2.8|^3.0"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "^1.0",
         "phpspec/phpspec": "^3.0",
         "phpunit/phpunit": "^4.8",
-        "symfony/form": "^2.8",
+        "symfony/form": "^2.8|^3.0",
         "twig/twig": "^1.0"
     },
     "config": {

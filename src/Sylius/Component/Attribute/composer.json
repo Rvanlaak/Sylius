@@ -24,7 +24,7 @@
 
         "sylius/resource": "^1.0",
         "sylius/registry": "^1.0",
-        "symfony/validator": "^2.8",
+        "symfony/validator": "^2.8|^3.0",
         "doctrine/collections": "~1.2"
     },
     "require-dev": {
